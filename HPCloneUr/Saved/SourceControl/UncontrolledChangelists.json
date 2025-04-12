@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Descargas/UnityHub/HPClone_UE/HPCloneUr/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/Descargas/UnityHub/HPClone_UE/HPCloneUr/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Descargas/UnityHub/HPClone_UE/HPCloneUr/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Descargas/UnityHub/HPClone_UE/HPCloneUr/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/Descargas/UnityHub/HPClone_UE/HPCloneUr/Content/StarterContent/Architecture/CollisionPoint.uasset",
+				"D:/Descargas/UnityHub/HPClone_UE/HPCloneUr/Content/Spells/IInteractuable.uasset",
+				"D:/Descargas/UnityHub/HPClone_UE/HPCloneUr/Content/Spells/Flipendo.uasset",
+				"D:/Descargas/UnityHub/HPClone_UE/HPCloneUr/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/7K/WKUVN6H99YJSCXYPIRD19S.uasset",
+				"D:/Descargas/UnityHub/HPClone_UE/HPCloneUr/Content/StarterContent/Architecture/MouseBP.uasset"
 			]
 		}
 	]
