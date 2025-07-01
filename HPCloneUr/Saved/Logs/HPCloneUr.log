@@ -3445,3 +3445,241 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2025.07.01-20.56.22:154][740]LogViewport: Scene viewport resized to 1270x445, mode Windowed.
 [2025.07.01-20.56.22:210][741]LogViewport: Scene viewport resized to 1270x454, mode Windowed.
 [2025.07.01-20.56.22:266][742]LogViewport: Scene viewport resized to 1270x458, mode Windowed.
+[2025.07.01-20.57.02:990][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.07.01-20.57.03:012][420]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.055
+[2025.07.01-20.57.03:013][420]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy/EnemyAnimation/EnemyMesh] ([1] browsable assets)...
+[2025.07.01-20.57.03:013][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/EnemyAnimation/EnemyMesh]
+[2025.07.01-20.57.03:114][420]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/EnemyAnimation/EnemyMesh_Auto0
+[2025.07.01-20.57.03:115][420]LogSavePackage: Moving '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Saved/EnemyMesh_Auto05122554746676A25EB010AA945615DDA.tmp' to '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Saved/Autosaves/Game/Enemy/EnemyAnimation/EnemyMesh_Auto0.uasset'
+[2025.07.01-20.57.03:117][420]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy/EnemyAnimation/EnemyMesh_Skeleton] ([1] browsable assets)...
+[2025.07.01-20.57.03:117][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/EnemyAnimation/EnemyMesh_Skeleton]
+[2025.07.01-20.57.03:134][420]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/EnemyAnimation/EnemyMesh_Skeleton_Auto0
+[2025.07.01-20.57.03:134][420]LogSavePackage: Moving '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Saved/EnemyMesh_Skeleton_Auto00C5008A145971AE261E9F48F13342D1B.tmp' to '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Saved/Autosaves/Game/Enemy/EnemyAnimation/EnemyMesh_Skeleton_Auto0.uasset'
+[2025.07.01-20.57.03:136][420]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy/EnemyAnimation/EnemyMesh_PhysicsAsset] ([1] browsable assets)...
+[2025.07.01-20.57.03:136][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/EnemyAnimation/EnemyMesh_PhysicsAsset]
+[2025.07.01-20.57.03:143][420]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/EnemyAnimation/EnemyMesh_PhysicsAsset_Auto0
+[2025.07.01-20.57.03:143][420]LogSavePackage: Moving '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Saved/EnemyMesh_PhysicsAsset_Auto0B460F94E494AEA2F64F0D5B1A172353D.tmp' to '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Saved/Autosaves/Game/Enemy/EnemyAnimation/EnemyMesh_PhysicsAsset_Auto0.uasset'
+[2025.07.01-20.57.03:147][420]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy/EnemyAnimation/EnemyMesh_Anim] ([1] browsable assets)...
+[2025.07.01-20.57.03:147][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/EnemyAnimation/EnemyMesh_Anim]
+[2025.07.01-20.57.03:228][420]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/EnemyAnimation/EnemyMesh_Anim_Auto0
+[2025.07.01-20.57.03:229][420]LogSavePackage: Moving '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Saved/EnemyMesh_Anim_Auto022EE8A5C4DE0881E512849822C196AEB.tmp' to '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Saved/Autosaves/Game/Enemy/EnemyAnimation/EnemyMesh_Anim_Auto0.uasset'
+[2025.07.01-20.57.03:230][420]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy/EnemyAnimation/Animations/Attack] ([1] browsable assets)...
+[2025.07.01-20.57.03:230][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/EnemyAnimation/Animations/Attack]
+[2025.07.01-20.57.03:246][420]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/EnemyAnimation/Animations/Attack_Auto0
+[2025.07.01-20.57.03:247][420]LogSavePackage: Moving '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Saved/Attack_Auto09790C82641453AE5D132E19523552E2D.tmp' to '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Saved/Autosaves/Game/Enemy/EnemyAnimation/Animations/Attack_Auto0.uasset'
+[2025.07.01-20.57.03:248][420]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy/EnemyAnimation/Animations/Walk] ([1] browsable assets)...
+[2025.07.01-20.57.03:248][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/EnemyAnimation/Animations/Walk]
+[2025.07.01-20.57.03:262][420]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/EnemyAnimation/Animations/Walk_Auto0
+[2025.07.01-20.57.03:262][420]LogSavePackage: Moving '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Saved/Walk_Auto077DACE8A4BCA8CBE644A8D826E0647C5.tmp' to '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Saved/Autosaves/Game/Enemy/EnemyAnimation/Animations/Walk_Auto0.uasset'
+[2025.07.01-20.57.03:265][420]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy/EnemyAnimation/Animations/Death] ([1] browsable assets)...
+[2025.07.01-20.57.03:265][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/EnemyAnimation/Animations/Death]
+[2025.07.01-20.57.03:296][420]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/EnemyAnimation/Animations/Death_Auto0
+[2025.07.01-20.57.03:296][420]LogSavePackage: Moving '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Saved/Death_Auto00AC9ECAD42160F79D729E293C56A3FCB.tmp' to '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Saved/Autosaves/Game/Enemy/EnemyAnimation/Animations/Death_Auto0.uasset'
+[2025.07.01-20.57.03:298][420]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CharacterPlayer/Animaciones/Jumping] ([1] browsable assets)...
+[2025.07.01-20.57.03:298][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterPlayer/Animaciones/Jumping]
+[2025.07.01-20.57.03:317][420]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CharacterPlayer/Animaciones/Jumping_Auto0
+[2025.07.01-20.57.03:317][420]LogSavePackage: Moving '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Saved/Jumping_Auto0C000582B4AADF36C33EE469FDD967406.tmp' to '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Saved/Autosaves/Game/CharacterPlayer/Animaciones/Jumping_Auto0.uasset'
+[2025.07.01-20.57.03:318][420]LogFileHelpers: Auto-saving content packages took 0.306
+[2025.07.01-21.01.05:074][147]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16153.826172
+[2025.07.01-21.01.06:075][150]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.01-21.01.06:076][150]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16154.493164, Update Interval: 346.048767
+[2025.07.01-21.07.27:505][293]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16536.265625
+[2025.07.01-21.07.28:506][296]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.01-21.07.28:507][296]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16536.935547, Update Interval: 330.464172
+[2025.07.01-21.09.21:707][635]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2025.07.01-21.09.31:435][635]LogSlate: Window 'Save Content' being destroyed
+[2025.07.01-21.09.31:468][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.01-21.09.31:650][635]LogSavePackage: Moving output files for package: /Game/Enemy/EnemyAnimation/Animations/Attack
+[2025.07.01-21.09.31:650][635]LogSavePackage: Moving '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Saved/AttackB67158D14908DAA1A9A45F8697360EC8.tmp' to '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Content/Enemy/EnemyAnimation/Animations/Attack.uasset'
+[2025.07.01-21.09.31:692][635]LogSavePackage: Moving output files for package: /Game/Enemy/EnemyAnimation/Animations/Death
+[2025.07.01-21.09.31:692][635]LogSavePackage: Moving '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Saved/Death90D9F19748993BC06D9AB88ACD97093F.tmp' to '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Content/Enemy/EnemyAnimation/Animations/Death.uasset'
+[2025.07.01-21.09.31:721][635]LogSavePackage: Moving output files for package: /Game/Enemy/EnemyAnimation/EnemyMesh
+[2025.07.01-21.09.31:722][635]LogSavePackage: Moving '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Saved/EnemyMesh14B052D24DD99753A04AE5BFBF99F725.tmp' to '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Content/Enemy/EnemyAnimation/EnemyMesh.uasset'
+[2025.07.01-21.09.31:737][635]LogSavePackage: Moving output files for package: /Game/Enemy/EnemyAnimation/EnemyMesh_Anim
+[2025.07.01-21.09.31:738][635]LogSavePackage: Moving '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Saved/EnemyMesh_Anim2A72FE444D925F03BC7A89961850B0AF.tmp' to '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Content/Enemy/EnemyAnimation/EnemyMesh_Anim.uasset'
+[2025.07.01-21.09.31:746][635]LogSavePackage: Moving output files for package: /Game/Enemy/EnemyAnimation/EnemyMesh_PhysicsAsset
+[2025.07.01-21.09.31:746][635]LogSavePackage: Moving '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Saved/EnemyMesh_PhysicsAsset65052904471BB0BC841B108047C8F527.tmp' to '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Content/Enemy/EnemyAnimation/EnemyMesh_PhysicsAsset.uasset'
+[2025.07.01-21.09.31:751][635]LogSavePackage: Moving output files for package: /Game/Enemy/EnemyAnimation/EnemyMesh_Skeleton
+[2025.07.01-21.09.31:751][635]LogSavePackage: Moving '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Saved/EnemyMesh_Skeleton46274D7B4C453A6A6799ACB7F7B35F4E.tmp' to '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Content/Enemy/EnemyAnimation/EnemyMesh_Skeleton.uasset'
+[2025.07.01-21.09.31:774][635]LogSavePackage: Moving output files for package: /Game/CharacterPlayer/Animaciones/Jumping
+[2025.07.01-21.09.31:774][635]LogSavePackage: Moving '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Saved/JumpingCD6384F443D9C56EC69BED80F2D029BF.tmp' to '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Content/CharacterPlayer/Animaciones/Jumping.uasset'
+[2025.07.01-21.09.31:790][635]LogSavePackage: Moving output files for package: /Game/Enemy/EnemyAnimation/Animations/Walk
+[2025.07.01-21.09.31:790][635]LogSavePackage: Moving '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Saved/Walk42B99A45426127F5E96F1A8F0C762A5C.tmp' to '../../../../../Diseño de Videojuegos/5to Cuatrimestre 2024/Programación en Motores 1/TP/HPClone_UE/HPCloneUr/Content/Enemy/EnemyAnimation/Animations/Walk.uasset'
+[2025.07.01-21.09.31:806][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 337 ms (total: 11.9 sec)
+[2025.07.01-21.09.31:838][635]LogStall: Shutdown...
+[2025.07.01-21.09.31:860][635]LogStall: Shutdown complete.
+[2025.07.01-21.09.31:926][635]LogSlate: Window 'HPCloneUr - Unreal Editor' being destroyed
+[2025.07.01-21.09.32:592][635]AssetCheck: New page: Asset Save: multiple assets
+[2025.07.01-21.09.32:592][635]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Enemy/EnemyAnimation/Animations/Attack.Attack
+[2025.07.01-21.09.32:592][635]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Enemy/EnemyAnimation/Animations/Death.Death
+[2025.07.01-21.09.32:592][635]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Enemy/EnemyAnimation/EnemyMesh.EnemyMesh
+[2025.07.01-21.09.32:593][635]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Enemy/EnemyAnimation/EnemyMesh_Anim.EnemyMesh_Anim
+[2025.07.01-21.09.32:593][635]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Enemy/EnemyAnimation/EnemyMesh_PhysicsAsset.EnemyMesh_PhysicsAsset
+[2025.07.01-21.09.32:593][635]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Enemy/EnemyAnimation/EnemyMesh_Skeleton.EnemyMesh_Skeleton
+[2025.07.01-21.09.32:593][635]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/CharacterPlayer/Animaciones/Jumping.Jumping
+[2025.07.01-21.09.32:593][635]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Enemy/EnemyAnimation/Animations/Walk.Walk
+[2025.07.01-21.09.32:606][636]Cmd: QUIT_EDITOR
+[2025.07.01-21.09.32:606][636]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.07.01-21.09.32:702][636]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.07.01-21.09.32:750][636]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.07.01-21.09.32:750][636]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.07.01-21.09.32:885][636]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.07.01-21.09.32:911][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.01-21.09.33:001][636]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.07.01-21.09.33:408][636]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.07.01-21.09.34:127][636]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.07.01-21.09.34:127][636]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.07.01-21.09.34:127][636]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2025.07.01-21.09.34:149][636]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2025.07.01-21.09.34:217][636]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.07.01-21.09.34:232][636]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.07.01-21.09.34:262][636]LogAudio: Display: Audio Device Manager Shutdown
+[2025.07.01-21.09.34:264][636]LogWindowsTextInputMethodSystem: Activated input method: Español (Argentina) - (Keyboard).
+[2025.07.01-21.09.34:345][636]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.07.01-21.09.34:357][636]LogExit: Preparing to exit.
+[2025.07.01-21.09.35:085][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2025.07.01-21.09.35:101][636]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.01-21.09.35:107][636]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.01-21.09.35:113][636]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.01-21.09.35:114][636]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.01-21.09.35:114][636]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.01-21.09.35:114][636]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.01-21.09.35:114][636]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.01-21.09.35:114][636]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.01-21.09.35:114][636]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.01-21.09.35:114][636]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.01-21.09.35:114][636]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.01-21.09.35:114][636]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.01-21.09.35:114][636]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.01-21.09.35:114][636]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.01-21.09.35:114][636]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.01-21.09.35:114][636]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.01-21.09.35:114][636]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.01-21.09.35:114][636]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.01-21.09.35:114][636]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.01-21.09.35:115][636]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.01-21.09.37:053][636]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.07.01-21.09.37:061][636]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.07.01-21.09.37:062][636]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.07.01-21.09.37:064][636]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.07.01-21.09.37:066][636]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.07.01-21.09.37:067][636]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.07.01-21.09.37:068][636]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.07.01-21.09.37:069][636]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.07.01-21.09.37:070][636]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.07.01-21.09.37:072][636]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.07.01-21.09.37:072][636]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.07.01-21.09.37:072][636]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.07.01-21.09.37:072][636]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.07.01-21.09.37:072][636]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.07.01-21.09.37:074][636]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.07.01-21.09.37:540][636]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.07.01-21.09.38:049][636]LogExit: Editor shut down
+[2025.07.01-21.09.38:057][636]LogExit: Transaction tracking system shut down
+[2025.07.01-21.09.41:911][636]LogExit: Object subsystem successfully closed.
+[2025.07.01-21.09.41:922][636]LogShaderCompilers: Display: ================================================
+[2025.07.01-21.09.41:927][636]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.01-21.09.41:927][636]LogShaderCompilers: Display: Total job queries 392, among them cache hits 196 (50.00%)
+[2025.07.01-21.09.41:927][636]LogShaderCompilers: Display: Tracking 100 distinct input hashes that result in 43 distinct outputs (43.00%)
+[2025.07.01-21.09.41:927][636]LogShaderCompilers: Display: RAM used: 308,73 KiB of 716,80 MiB budget. Usage: 0.04%
+[2025.07.01-21.09.41:927][636]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.01-21.09.41:927][636]LogShaderCompilers: Display: Shaders Compiled: 100
+[2025.07.01-21.09.41:927][636]LogShaderCompilers: Display: Jobs assigned 100, completed 100 (100%)
+[2025.07.01-21.09.41:927][636]LogShaderCompilers: Display: Average time worker was idle: 0.47 s
+[2025.07.01-21.09.41:927][636]LogShaderCompilers: Display: Time job spent in pending queue: average 3.32 s, longest 13.70 s
+[2025.07.01-21.09.41:927][636]LogShaderCompilers: Display: Job execution time: average 7.82 s, max 23.28 s
+[2025.07.01-21.09.41:927][636]LogShaderCompilers: Display: Job life time (pending + execution): average 11.14 s, max 23.34
+[2025.07.01-21.09.41:934][636]LogShaderCompilers: Display: Shader code size: average 7,567 KiB, min 1,355 KiB, max 12,645 KiB
+[2025.07.01-21.09.41:934][636]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 54.76 s
+[2025.07.01-21.09.41:934][636]LogShaderCompilers: Display: Jobs were issued in 74 batches (only local compilation was used), average 1.35 jobs/batch
+[2025.07.01-21.09.41:934][636]LogShaderCompilers: Display: Average processing rate: 1.83 jobs/sec
+[2025.07.01-21.09.41:934][636]LogShaderCompilers: Display: Total thread time: 157,142 s
+[2025.07.01-21.09.41:934][636]LogShaderCompilers: Display: Total thread preprocess time: 14,393 s
+[2025.07.01-21.09.41:934][636]LogShaderCompilers: Display: Percentage time preprocessing: 9.16%
+[2025.07.01-21.09.41:934][636]LogShaderCompilers: Display: Effective parallelization: 2.87 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.07.01-21.09.41:936][636]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.01-21.09.41:936][636]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    4 times, average 1.96 sec, max 2.17 sec, min 1.81 sec)
+[2025.07.01-21.09.41:936][636]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    2 times, average 1.93 sec, max 2.06 sec, min 1.79 sec)
+[2025.07.01-21.09.41:936][636]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    2 times, average 1.91 sec, max 2.08 sec, min 1.73 sec)
+[2025.07.01-21.09.41:936][636]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    2 times, average 1.83 sec, max 1.97 sec, min 1.69 sec)
+[2025.07.01-21.09.41:936][636]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    6 times, average 1.82 sec, max 2.35 sec, min 1.49 sec)
+[2025.07.01-21.09.41:936][636]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.01-21.09.41:936][636]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.94% of total time (compiled    6 times, average 1.82 sec, max 2.35 sec, min 1.49 sec)
+[2025.07.01-21.09.41:936][636]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.88% of total time (compiled    6 times, average 1.80 sec, max 2.28 sec, min 1.43 sec)
+[2025.07.01-21.09.41:936][636]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.35% of total time (compiled    6 times, average 1.66 sec, max 2.20 sec, min 1.32 sec)
+[2025.07.01-21.09.41:936][636]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.24% of total time (compiled    6 times, average 1.63 sec, max 2.07 sec, min 1.15 sec)
+[2025.07.01-21.09.41:936][636]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.20% of total time (compiled    6 times, average 1.62 sec, max 2.08 sec, min 1.19 sec)
+[2025.07.01-21.09.41:936][636]LogShaderCompilers: Display: ================================================
+[2025.07.01-21.09.41:968][636]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.07.01-21.09.42:118][636]LogVirtualization: UE::Virtualization was shutdown
+[2025.07.01-21.09.44:118][636]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (1064)
+[2025.07.01-21.09.44:125][636]LogModuleManager: Shutting down and abandoning module SequencerWidgets (1062)
+[2025.07.01-21.09.44:125][636]LogModuleManager: Shutting down and abandoning module AnimationEditor (1060)
+[2025.07.01-21.09.44:125][636]LogModuleManager: Shutting down and abandoning module PinnedCommandList (1058)
+[2025.07.01-21.09.44:125][636]LogModuleManager: Shutting down and abandoning module SkeletonEditor (1056)
+[2025.07.01-21.09.44:125][636]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1054)
+[2025.07.01-21.09.44:129][636]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1052)
+[2025.07.01-21.09.44:129][636]LogModuleManager: Shutting down and abandoning module SceneOutliner (1050)
+[2025.07.01-21.09.44:132][636]LogModuleManager: Shutting down and abandoning module AddContentDialog (1048)
+[2025.07.01-21.09.44:182][636]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1047)
+[2025.07.01-21.09.44:182][636]LogModuleManager: Shutting down and abandoning module StatusBar (1044)
+[2025.07.01-21.09.44:182][636]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1042)
+[2025.07.01-21.09.44:182][636]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1040)
+[2025.07.01-21.09.44:191][636]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1038)
+[2025.07.01-21.09.44:191][636]LogModuleManager: Shutting down and abandoning module StatsViewer (1036)
+[2025.07.01-21.09.44:199][636]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1034)
+[2025.07.01-21.09.44:199][636]LogModuleManager: Shutting down and abandoning module AutomationWorker (1032)
+[2025.07.01-21.09.44:210][636]LogModuleManager: Shutting down and abandoning module TextureAlignMode (1030)
+[2025.07.01-21.09.44:210][636]LogModuleManager: Shutting down and abandoning module BspMode (1028)
+[2025.07.01-21.09.44:223][636]LogModuleManager: Shutting down and abandoning module GeometryMode (1026)
+[2025.07.01-21.09.44:224][636]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (1024)
+[2025.07.01-21.09.44:224][636]LogModuleManager: Shutting down and abandoning module PlanarCut (1022)
+[2025.07.01-21.09.44:229][636]LogModuleManager: Shutting down and abandoning module FractureEngine (1020)
+[2025.07.01-21.09.44:236][636]LogModuleManager: Shutting down and abandoning module CharacterAI (1018)
+[2025.07.01-21.09.44:238][636]LogModuleManager: Shutting down and abandoning module IKRigEditor (1016)
+[2025.07.01-21.09.44:265][636]LogModuleManager: Shutting down and abandoning module ControlRigEditor (1014)
+[2025.07.01-21.09.44:333][636]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (1012)
+[2025.07.01-21.09.44:343][636]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (1010)
+[2025.07.01-21.09.44:386][636]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (1008)
+[2025.07.01-21.09.44:413][636]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1006)
+[2025.07.01-21.09.44:413][636]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (1004)
+[2025.07.01-21.09.44:413][636]LogModuleManager: Shutting down and abandoning module WebMMedia (1002)
+[2025.07.01-21.09.44:419][636]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1000)
+[2025.07.01-21.09.44:419][636]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (998)
+[2025.07.01-21.09.44:419][636]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (996)
+[2025.07.01-21.09.44:431][636]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (994)
+[2025.07.01-21.09.44:462][636]LogModuleManager: Shutting down and abandoning module SequenceRecorder (993)
+[2025.07.01-21.09.44:472][636]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (990)
+[2025.07.01-21.09.44:477][636]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (988)
+[2025.07.01-21.09.44:477][636]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (986)
+[2025.07.01-21.09.44:485][636]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (984)
+[2025.07.01-21.09.44:485][636]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (982)
+[2025.07.01-21.09.44:485][636]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (980)
+[2025.07.01-21.09.44:485][636]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (978)
+[2025.07.01-21.09.44:485][636]LogModuleManager: Shutting down and abandoning module SmartSnapping (976)
+[2025.07.01-21.09.44:489][636]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (974)
+[2025.07.01-21.09.44:512][636]LogModuleManager: Shutting down and abandoning module WaveTableEditor (972)
+[2025.07.01-21.09.44:521][636]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (970)
+[2025.07.01-21.09.44:521][636]LogModuleManager: Shutting down and abandoning module RigVMEditor (968)
+[2025.07.01-21.09.44:521][636]LogModuleManager: Shutting down and abandoning module GooglePADEditor (966)
+[2025.07.01-21.09.44:521][636]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (964)
+[2025.07.01-21.09.44:521][636]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (962)
+[2025.07.01-21.09.44:521][636]LogModuleManager: Shutting down and abandoning module SessionServices (960)
+[2025.07.01-21.09.44:521][636]LogModuleManager: Shutting down and abandoning module MeshPaint (958)
+[2025.07.01-21.09.44:532][636]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (956)
+[2025.07.01-21.09.44:546][636]LogModuleManager: Shutting down and abandoning module PlacementMode (955)
+[2025.07.01-21.09.44:555][636]LogModuleManager: Shutting down and abandoning module FoliageEdit (952)
+[2025.07.01-21.09.44:568][636]LogModuleManager: Shutting down and abandoning module LandscapeEditor (950)
+[2025.07.01-21.09.44:623][636]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (948)
+[2025.07.01-21.09.44:623][636]LogModuleManager: Shutting down and abandoning module ActorPickerMode (946)
+[2025.07.01-21.09.44:623][636]LogModuleManager: Shutting down and abandoning module ViewportSnapping (944)
+[2025.07.01-21.09.44:623][636]LogModuleManager: Shutting down and abandoning module EditorWidgets (942)
+[2025.07.01-21.09.44:623][636]LogModuleManager: Shutting down and abandoning module ViewportInteraction (940)
+[2025.07.01-21.09.44:623][636]LogModuleManager: Shutting down and abandoning module ClothPainter (938)
+[2025.07.01-21.09.44:632][636]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (937)
+[2025.07.01-21.09.44:644][636]LogModuleManager: Shutting down and abandoning module WidgetRegistration (934)
+[2025.07.01-21.09.44:654][636]LogModuleManager: Shutting down and abandoning module LogVisualizer (932)
+[2025.07.01-21.09.44:681][636]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (930)
+[2025.07.01-21.09.44:693][636]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (928)
+[2025.07.01-21.09.44:693][636]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (927)
+[2025.07.01-21.09.44:709][636]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (925)
